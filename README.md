@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/davetrade07" target="blank"><img src="https://img.shields.io/twitter/follow/davetrade07?logo=twitter&style=for-the-badge" alt="davetrade07" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Management Python Project Project](https://github.com/davdpird/idealistaproject)
+- 🔭 I’m currently working on [Portfolio Management Python Project Project](https://github.com/users/davdpird/projects/3)
 
 - 🌱 I’m currently learning **Python & Visualization**
 
