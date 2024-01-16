@@ -2,6 +2,7 @@
 ![dcd1fb0f995baa4d2a4a9be54a590856](https://github.com/davdpird/davdpird/assets/137167497/c395a8ad-6584-46f8-8639-ca3d2585587d)
 
 
+![DAVE](https://github.com/davdpird/davdpird/assets/137167497/a61dfcd1-7ce4-4898-9876-98b5845dce2e)
 
 
 <h1 align="center">Hi 👋, I'm Dave</h1>
