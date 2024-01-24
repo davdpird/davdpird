@@ -4,7 +4,6 @@
 
 ![WORK](https://github.com/davdpird/davdpird/assets/137167497/91648a6e-5102-4ee9-bbde-1f0f373e67e0)
 
-https://colab.research.google.com/drive/1TszHhSFNaA_IpkPpKnbUa17IwJryaHKY
 
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A passionate Business Analyst</h3>
@@ -15,6 +14,8 @@ https://colab.research.google.com/drive/1TszHhSFNaA_IpkPpKnbUa17IwJryaHKY
 <p align="left"> <a href="https://twitter.com/davetrade07" target="blank"><img src="https://img.shields.io/twitter/follow/davetrade07?logo=twitter&style=for-the-badge" alt="davetrade07" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio Management Python Project Project](https://github.com/users/davdpird/projects/3)
+- https://colab.research.google.com/drive/1TszHhSFNaA_IpkPpKnbUa17IwJryaHKY
+https://colab.research.google.com/drive/1zIUpDfT_nO_YV4CHiRHbyYR0eu11Ne-N
 
 - 🌱 I’m currently learning **Python & Visualization**
 
